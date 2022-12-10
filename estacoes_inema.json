@@ -1,0 +1,1097 @@
+[
+    {
+      "Estação": "Amargosa - A434",
+      "Latitude": -13.009,
+      "Longitude": -39.617
+    },
+    {
+      "Estação": "América Dourada (Centro) -",
+      "Latitude": -11.45,
+      "Longitude": -41.434
+    },
+    {
+      "Estação": "Aporá - IT-CL-01",
+      "Latitude": -11.671,
+      "Longitude": -38.175
+    },
+    {
+      "Estação": "Baixa Grande - PG-PR-08",
+      "Latitude": -11.909,
+      "Longitude": -40.184
+    },
+    {
+      "Estação": "Barra - A429",
+      "Latitude": -11.085,
+      "Longitude": -43.139
+    },
+    {
+      "Estação": "Barra do Rocha - 290310201A",
+      "Latitude": -14.209,
+      "Longitude": -39.599
+    },
+    {
+      "Estação": "Barreiras - 83236",
+      "Latitude": -12.156,
+      "Longitude": -45.008
+    },
+    {
+      "Estação": "Barreiras - Fazenda Redenção",
+      "Latitude": -12.136,
+      "Longitude": -45.103
+    },
+    {
+      "Estação": "Barreiras - Nova Vida Montante",
+      "Latitude": -11.868,
+      "Longitude": -45.085
+    },
+    {
+      "Estação": "Barro Alto - 290323501C",
+      "Latitude": -11.812,
+      "Longitude": -41.901
+    },
+    {
+      "Estação": "Bom Jesus da Lapa - 83288",
+      "Latitude": -13.251,
+      "Longitude": -43.405
+    },
+    {
+      "Estação": "Bom Jesus da Lapa - A418",
+      "Latitude": -13.251,
+      "Longitude": -43.405
+    },
+    {
+      "Estação": "Bom Jesus da Lapa - ANA",
+      "Latitude": -13.257,
+      "Longitude": -43.435
+    },
+    {
+      "Estação": "Bonito - PG-PR-11",
+      "Latitude": -11.99,
+      "Longitude": -41.254
+    },
+    {
+      "Estação": "Boquira - 290410001C",
+      "Latitude": -12.81,
+      "Longitude": -42.718
+    },
+    {
+      "Estação": "Brumado - A433",
+      "Latitude": -14.182,
+      "Longitude": -41.672
+    },
+    {
+      "Estação": "Cachoeira - 290490201A",
+      "Latitude": -12.608,
+      "Longitude": -38.961
+    },
+    {
+      "Estação": "Caculé - 290500801C",
+      "Latitude": -14.498,
+      "Longitude": -42.26
+    },
+    {
+      "Estação": "Caém - IT-PR-35",
+      "Latitude": -11.093,
+      "Longitude": -40.438
+    },
+    {
+      "Estação": "Caetité - CD-CL-01",
+      "Latitude": -13.967,
+      "Longitude": -42.605
+    },
+    {
+      "Estação": "Cafarnaum - 290530501C",
+      "Latitude": -11.745,
+      "Longitude": -41.498
+    },
+    {
+      "Estação": "Camacã - Fz Nanci (INEMA-ANA)",
+      "Latitude": -15.581,
+      "Longitude": -39.521
+    },
+    {
+      "Estação": "Camacan (Centro) - 290560201A",
+      "Latitude": -15.422,
+      "Longitude": -39.495
+    },
+    {
+      "Estação": "Camacan (Centro) - 290560203A",
+      "Latitude": -15.416,
+      "Longitude": -39.494
+    },
+    {
+      "Estação": "Camacan (São João do Panelinha) -",
+      "Latitude": -15.375,
+      "Longitude": -39.49
+    },
+    {
+      "Estação": "Camamu (Centro) - 290580001A",
+      "Latitude": -13.944,
+      "Longitude": -39.103
+    },
+    {
+      "Estação": "Campo Formoso - IT-CL-02",
+      "Latitude": -10.471,
+      "Longitude": -40.334
+    },
+    {
+      "Estação": "Campo Formoso (Aeródromo) - SA-",
+      "Latitude": -10.49,
+      "Longitude": -40.487
+    },
+    {
+      "Estação": "Canavieiras - 83398",
+      "Latitude": -15.667,
+      "Longitude": -38.95
+    },
+    {
+      "Estação": "Candeias (Centro) - 290650101A",
+      "Latitude": -12.67,
+      "Longitude": -38.544
+    },
+    {
+      "Estação": "Candeias (Malemba) - 290650102A",
+      "Latitude": -12.678,
+      "Longitude": -38.544
+    },
+    {
+      "Estação": "Candeias (Santa Terezinha) -",
+      "Latitude": -12.647,
+      "Longitude": -38.539
+    },
+    {
+      "Estação": "Candeias (Sarandi) - 290650104A",
+      "Latitude": -12.671,
+      "Longitude": -38.531
+    },
+    {
+      "Estação": "Candiba - 290660001C",
+      "Latitude": -14.377,
+      "Longitude": -42.813
+    },
+    {
+      "Estação": "Cândido Sales - ANA",
+      "Latitude": -15.513,
+      "Longitude": -41.237
+    },
+    {
+      "Estação": "Cansanção - IT-PR-20",
+      "Latitude": -10.703,
+      "Longitude": -39.544
+    },
+    {
+      "Estação": "Capim Grosso - IT-CL-03",
+      "Latitude": -11.368,
+      "Longitude": -40.034
+    },
+    {
+      "Estação": "Capim Grosso - Pedras Altas",
+      "Latitude": -11.183,
+      "Longitude": -40.047
+    },
+    {
+      "Estação": "Caraíbas - 290689901C",
+      "Latitude": -14.725,
+      "Longitude": -41.277
+    },
+    {
+      "Estação": "Caravelas - 83498",
+      "Latitude": -17.739,
+      "Longitude": -39.258
+    },
+    {
+      "Estação": "Chorrochó - 290770701C",
+      "Latitude": -8.984,
+      "Longitude": -39.118
+    },
+    {
+      "Estação": "Cocos (Fazenda Santa Luzia) - CA-CL-",
+      "Latitude": -14.855,
+      "Longitude": -45.936
+    },
+    {
+      "Estação": "Conde - A431",
+      "Latitude": -12.036,
+      "Longitude": -37.683
+    },
+    {
+      "Estação": "Correntina - ANA",
+      "Latitude": -13.341,
+      "Longitude": -44.639
+    },
+    {
+      "Estação": "Correntina - Arrojado",
+      "Latitude": -13.453,
+      "Longitude": -44.569
+    },
+    {
+      "Estação": "Correntina - PCH Pres. Goulart - J",
+      "Latitude": -13.334,
+      "Longitude": -44.621
+    },
+    {
+      "Estação": "Correntina - PCH Pres. Goulart - M1",
+      "Latitude": -13.341,
+      "Longitude": -44.641
+    },
+    {
+      "Estação": "Correntina (Fazenda Morinaga) - CT-",
+      "Latitude": -13.752,
+      "Longitude": -45.87
+    },
+    {
+      "Estação": "Cotegipe - Faz. Macambira",
+      "Latitude": -11.611,
+      "Longitude": -44.157
+    },
+    {
+      "Estação": "Crisópolis - IT-PR-08",
+      "Latitude": -11.511,
+      "Longitude": -38.121
+    },
+    {
+      "Estação": "Cruz das Almas - 83222",
+      "Latitude": -12.667,
+      "Longitude": -39.083
+    },
+    {
+      "Estação": "Cruz das Almas - A406",
+      "Latitude": -12.675,
+      "Longitude": -39.09
+    },
+    {
+      "Estação": "Euclides da Cunha - A442",
+      "Latitude": -10.537,
+      "Longitude": -38.997
+    },
+    {
+      "Estação": "Eunápolis - FB-CL-01",
+      "Latitude": -16.291,
+      "Longitude": -39.58
+    },
+    {
+      "Estação": "Feira de Santana - PG-PR-13",
+      "Latitude": -12.268,
+      "Longitude": -38.966
+    },
+    {
+      "Estação": "Filadélfia (Fazenda Alecrim ) - IT-FR-",
+      "Latitude": -10.752,
+      "Longitude": -40.224
+    },
+    {
+      "Estação": "Formosa do Rio Preto - A452",
+      "Latitude": -11.052,
+      "Longitude": -45.201
+    },
+    {
+      "Estação": "Formosa do Rio Preto (COACERAL) -",
+      "Latitude": -10.562,
+      "Longitude": -45.693
+    },
+    {
+      "Estação": "Formosa do Rio Preto (Fazenda",
+      "Latitude": -11.591,
+      "Longitude": -46.022
+    },
+    {
+      "Estação": "Gandú (Dois de Julho) - 291120401A",
+      "Latitude": -13.741,
+      "Longitude": -39.483
+    },
+    {
+      "Estação": "Guanambí - A426",
+      "Latitude": -14.208,
+      "Longitude": -42.75
+    },
+    {
+      "Estação": "Guaratinga (Novo Horizonte) -",
+      "Latitude": -16.583,
+      "Longitude": -39.781
+    },
+    {
+      "Estação": "Iaçu - ANA",
+      "Latitude": -12.762,
+      "Longitude": -40.214
+    },
+    {
+      "Estação": "Iaçu - PG-CL-05",
+      "Latitude": -12.911,
+      "Longitude": -40.032
+    },
+    {
+      "Estação": "Iaçu (João Amaro) - PG-PR-16",
+      "Latitude": -12.8,
+      "Longitude": -40.363
+    },
+    {
+      "Estação": "Iacú (Lagoa Bonita) - PG-PR-15",
+      "Latitude": -12.932,
+      "Longitude": -40.226
+    },
+    {
+      "Estação": "Ibotirama - A439",
+      "Latitude": -12.193,
+      "Longitude": -43.213
+    },
+    {
+      "Estação": "Igrapiúna (Centro) - 291345701A",
+      "Latitude": -13.819,
+      "Longitude": -39.142
+    },
+    {
+      "Estação": "Ilhéus - A410",
+      "Latitude": -14.659,
+      "Longitude": -39.181
+    },
+    {
+      "Estação": "Ilhéus (Conquista) - 291360601A",
+      "Latitude": -14.797,
+      "Longitude": -39.046
+    },
+    {
+      "Estação": "Ilhéus (Malhado) - 291360602A",
+      "Latitude": -14.789,
+      "Longitude": -39.049
+    },
+    {
+      "Estação": "Inhambupe - RN-CL-10",
+      "Latitude": -11.693,
+      "Longitude": -38.314
+    },
+    {
+      "Estação": "Ipiaú - A445",
+      "Latitude": -14.171,
+      "Longitude": -39.693
+    },
+    {
+      "Estação": "Iraquara (Afrânio Peixoto) - PG-PR-",
+      "Latitude": -12.26,
+      "Longitude": -41.446
+    },
+    {
+      "Estação": "Irecê - 83182",
+      "Latitude": -11.3,
+      "Longitude": -41.867
+    },
+    {
+      "Estação": "Irecê - A424",
+      "Latitude": -11.329,
+      "Longitude": -41.865
+    },
+    {
+      "Estação": "Itaberaba - 291470301C",
+      "Latitude": -12.458,
+      "Longitude": -40.202
+    },
+    {
+      "Estação": "Itaberaba - PC Ponte Rio Capivari",
+      "Latitude": -12.514,
+      "Longitude": -39.934
+    },
+    {
+      "Estação": "Itabuna - Fazenda Barra",
+      "Latitude": -14.9,
+      "Longitude": -39.369
+    },
+    {
+      "Estação": "Itabuna (Nova Ferradas) -",
+      "Latitude": -14.857,
+      "Longitude": -39.347
+    },
+    {
+      "Estação": "Itabuna (São Caetano) -",
+      "Latitude": -14.806,
+      "Longitude": -39.278
+    },
+    {
+      "Estação": "Itacaré (Passagem) - 291490101A",
+      "Latitude": -14.281,
+      "Longitude": -39.003
+    },
+    {
+      "Estação": "Itaetê",
+      "Latitude": -12.992,
+      "Longitude": -40.961
+    },
+    {
+      "Estação": "Itagimirim (Estádio Municipal) -",
+      "Latitude": -16.089,
+      "Longitude": -39.616
+    },
+    {
+      "Estação": "Itajuípe",
+      "Latitude": -14.674,
+      "Longitude": -39.377
+    },
+    {
+      "Estação": "Itamaraju (Centro) - 291560101A",
+      "Latitude": -17.028,
+      "Longitude": -39.535
+    },
+    {
+      "Estação": "Itapebi - Jusante",
+      "Latitude": -15.949,
+      "Longitude": -39.523
+    },
+    {
+      "Estação": "Itapetinga - A446",
+      "Latitude": -15.245,
+      "Longitude": -40.23
+    },
+    {
+      "Estação": "Itapetinga (Clerolândia) -",
+      "Latitude": -15.243,
+      "Longitude": -40.221
+    },
+    {
+      "Estação": "Itiruçu - 291690601C",
+      "Latitude": -13.397,
+      "Longitude": -40.138
+    },
+    {
+      "Estação": "Itiruçu - A407",
+      "Latitude": -13.526,
+      "Longitude": -40.121
+    },
+    {
+      "Estação": "Itororó (Centro) - 291710201A",
+      "Latitude": -15.119,
+      "Longitude": -40.065
+    },
+    {
+      "Estação": "Itororó (Itati) - LE-CL-03",
+      "Latitude": -15.053,
+      "Longitude": -40.023
+    },
+    {
+      "Estação": "Ituaçu - 83292",
+      "Latitude": -13.813,
+      "Longitude": -41.3
+    },
+    {
+      "Estação": "Jacobina (Feliz Tomaz) -",
+      "Latitude": -11.174,
+      "Longitude": -40.518
+    },
+    {
+      "Estação": "Jacobina (Itapeipu) - IT-PR-34",
+      "Latitude": -11.316,
+      "Longitude": -40.357
+    },
+    {
+      "Estação": "Jacobina (Ladeira Vermelha) -",
+      "Latitude": -11.162,
+      "Longitude": -40.554
+    },
+    {
+      "Estação": "Jacobina (Tombador Araújo) - IT-PR-",
+      "Latitude": -11.169,
+      "Longitude": -40.671
+    },
+    {
+      "Estação": "Jaguaquara - RS-CL-01",
+      "Latitude": -13.573,
+      "Longitude": -39.941
+    },
+    {
+      "Estação": "Jaguaquara (Entroncamento) -",
+      "Latitude": -13.51,
+      "Longitude": -40.055
+    },
+    {
+      "Estação": "Jaguaquara (Lagoa) 291760701A",
+      "Latitude": -13.523,
+      "Longitude": -39.969
+    },
+    {
+      "Estação": "Jaguarari - IT-PR-28",
+      "Latitude": -10.269,
+      "Longitude": -40.2
+    },
+    {
+      "Estação": "Jaguarari (Santa Rosa) - SM-PR-01",
+      "Latitude": -10.098,
+      "Longitude": -39.87
+    },
+    {
+      "Estação": "Jeremoabo - A450",
+      "Latitude": -10.081,
+      "Longitude": -38.346
+    },
+    {
+      "Estação": "Juazeiro - 48020000 (ANA)",
+      "Latitude": -9.406,
+      "Longitude": -40.504
+    },
+    {
+      "Estação": "Juazeiro (Itaberaba) - 291840701A",
+      "Latitude": -9.448,
+      "Longitude": -40.485
+    },
+    {
+      "Estação": "Juazeiro (João Paulo II) -",
+      "Latitude": -9.471,
+      "Longitude": -40.498
+    },
+    {
+      "Estação": "Juazeiro (Maria Gorete) -",
+      "Latitude": -9.42,
+      "Longitude": -40.499
+    },
+    {
+      "Estação": "Jucuruçu - PCH Cachoeira da Lixa M",
+      "Latitude": -17.067,
+      "Longitude": -40.069
+    },
+    {
+      "Estação": "Jucuruçu - PCH Colino I Jusante",
+      "Latitude": -17.082,
+      "Longitude": -40.077
+    },
+    {
+      "Estação": "Lapão - 291915701A",
+      "Latitude": -11.38,
+      "Longitude": -41.83
+    },
+    {
+      "Estação": "Lauro de Freitas - RN-CL-09",
+      "Latitude": -12.887,
+      "Longitude": -38.297
+    },
+    {
+      "Estação": "Lauro de Freitas (Areia Branca) -",
+      "Latitude": -12.841,
+      "Longitude": -38.337
+    },
+    {
+      "Estação": "Lauro de Freitas (Portão) -",
+      "Latitude": -12.87,
+      "Longitude": -38.305
+    },
+    {
+      "Estação": "Lauro de Freitas (Rua 02 de Julho) -",
+      "Latitude": -12.839,
+      "Longitude": -38.35
+    },
+    {
+      "Estação": "Lauro de Freitas (Vila Praiana) -",
+      "Latitude": -12.901,
+      "Longitude": -38.308
+    },
+    {
+      "Estação": "Lençóis - A425",
+      "Latitude": -12.558,
+      "Longitude": -41.389
+    },
+    {
+      "Estação": "Licínio de Almeida - 291940501C",
+      "Latitude": -14.689,
+      "Longitude": -42.503
+    },
+    {
+      "Estação": "Livramento de Nossa Senhora -",
+      "Latitude": -13.683,
+      "Longitude": -41.841
+    },
+    {
+      "Estação": "Macaúbas - PM-CL-02",
+      "Latitude": -13.08,
+      "Longitude": -42.696
+    },
+    {
+      "Estação": "Mansidão - Boqueirão (ANA)",
+      "Latitude": -11.345,
+      "Longitude": -43.826
+    },
+    {
+      "Estação": "Mansidão-Fz.P. Limpo-ANA_INEMA",
+      "Latitude": -11.237,
+      "Longitude": -43.951
+    },
+    {
+      "Estação": "Maragogipe (Centro) - 292060101A",
+      "Latitude": -12.78,
+      "Longitude": -38.917
+    },
+    {
+      "Estação": "Maraú - A438",
+      "Latitude": -13.907,
+      "Longitude": -38.972
+    },
+    {
+      "Estação": "Marcionílio Souza - PG-CL-03",
+      "Latitude": -13,
+      "Longitude": -40.538
+    },
+    {
+      "Estação": "Marcionílio Souza (Machado Portela) - PG-PR-26",
+      "Latitude": -13.154,
+      "Longitude": -40.768
+    },
+    {
+      "Estação": "Mascote - ANA",
+      "Latitude": -15.566,
+      "Longitude": -39.303
+    },
+    {
+      "Estação": "Medeiros Neto (Planalto I) -",
+      "Latitude": -17.365,
+      "Longitude": -40.223
+    },
+    {
+      "Estação": "Morpará",
+      "Latitude": -11.558,
+      "Longitude": -43.282
+    },
+    {
+      "Estação": "Morro do Chapéu - PG-FR-21",
+      "Latitude": -11.585,
+      "Longitude": -40.879
+    },
+    {
+      "Estação": "Morro do Chapéu (Ventura) - PG-",
+      "Latitude": -11.651,
+      "Longitude": -40.952
+    },
+    {
+      "Estação": "Mucugê (Guiné) - PG-PR-24",
+      "Latitude": -12.772,
+      "Longitude": -41.541
+    },
+    {
+      "Estação": "Mundo Novo (Ibiaporã) - PG-CL-01",
+      "Latitude": -12.054,
+      "Longitude": -40.837
+    },
+    {
+      "Estação": "Muritiba - PG-PR-12",
+      "Latitude": -12.618,
+      "Longitude": -39.006
+    },
+    {
+      "Estação": "Nazaré (Centro) - 292250801A",
+      "Latitude": -13.032,
+      "Longitude": -39.015
+    },
+    {
+      "Estação": "Nova Canaã - 292270601C",
+      "Latitude": -14.663,
+      "Longitude": -40.275
+    },
+    {
+      "Estação": "Nova Soure (Estação Experimental) -",
+      "Latitude": -11.308,
+      "Longitude": -38.536
+    },
+    {
+      "Estação": "Nova Viçosa (Centro) - 292300102A",
+      "Latitude": -17.893,
+      "Longitude": -39.372
+    },
+    {
+      "Estação": "Nova Viçosa (Posto da Mata) -",
+      "Latitude": -17.896,
+      "Longitude": -39.37
+    },
+    {
+      "Estação": "Paratinga (Volta da Serra) - CD-CL-",
+      "Latitude": -12.576,
+      "Longitude": -43.128
+    },
+    {
+      "Estação": "Pau Brasil - 292390201A",
+      "Latitude": -15.461,
+      "Longitude": -39.652
+    },
+    {
+      "Estação": "Pé de Serra - PG-CL-07",
+      "Latitude": -11.837,
+      "Longitude": -39.659
+    },
+    {
+      "Estação": "Piatã - A430",
+      "Latitude": -13.156,
+      "Longitude": -41.774
+    },
+    {
+      "Estação": "Piatã - CO-CL-04",
+      "Latitude": -13.164,
+      "Longitude": -41.771
+    },
+    {
+      "Estação": "Pilão Arcado - A449",
+      "Latitude": -10.004,
+      "Longitude": -42.475
+    },
+    {
+      "Estação": "Ponto Novo",
+      "Latitude": -10.845,
+      "Longitude": -40.113
+    },
+    {
+      "Estação": "Porto Seguro (Areião) - 292530301A",
+      "Latitude": -16.441,
+      "Longitude": -39.076
+    },
+    {
+      "Estação": "Porto Seguro (Paraguai) -",
+      "Latitude": -16.41,
+      "Longitude": -39.08
+    },
+    {
+      "Estação": "Porto Seguro (Trancoso) -",
+      "Latitude": -16.595,
+      "Longitude": -39.109
+    },
+    {
+      "Estação": "Prado (Ribeira) - 292550101A",
+      "Latitude": -17.338,
+      "Longitude": -39.232
+    },
+    {
+      "Estação": "Queimadas - IT-FR-26",
+      "Latitude": -10.973,
+      "Longitude": -39.633
+    },
+    {
+      "Estação": "Queimadas - A436",
+      "Latitude": -10.985,
+      "Longitude": -39.617
+    },
+    {
+      "Estação": "Quijingue - IT-PR-25",
+      "Latitude": -10.784,
+      "Longitude": -39.208
+    },
+    {
+      "Estação": "Quijingue (BR 116 E. Cunha /",
+      "Latitude": -10.71,
+      "Longitude": -38.923
+    },
+    {
+      "Estação": "Quixabeira - 292593101C",
+      "Latitude": -11.373,
+      "Longitude": -40.129
+    },
+    {
+      "Estação": "Rafael Jambeiro - PC Argoim",
+      "Latitude": -12.587,
+      "Longitude": -39.522
+    },
+    {
+      "Estação": "Rafael Jambeiro - PC Fazenda",
+      "Latitude": -12.488,
+      "Longitude": -39.698
+    },
+    {
+      "Estação": "Remanso - 82979",
+      "Latitude": -9.633,
+      "Longitude": -42.1
+    },
+    {
+      "Estação": "Remanso - A423",
+      "Latitude": -9.626,
+      "Longitude": -42.077
+    },
+    {
+      "Estação": "Riachão das Neves (Fazenda",
+      "Latitude": -11.63,
+      "Longitude": -44.846
+    },
+    {
+      "Estação": "Ribeira do Amparo (Boa Hora) - IT-",
+      "Latitude": -10.965,
+      "Longitude": -38.523
+    },
+    {
+      "Estação": "Ribeira do Pombal - IT-PR-04",
+      "Latitude": -10.823,
+      "Longitude": -38.546
+    },
+    {
+      "Estação": "Ribeira do Pombal (Curral Falso) - IT-",
+      "Latitude": -10.698,
+      "Longitude": -38.571
+    },
+    {
+      "Estação": "Rio do Pires - PM-CL-04",
+      "Latitude": -13.117,
+      "Longitude": -42.284
+    },
+    {
+      "Estação": "Rodelas - 292710101C",
+      "Latitude": -8.852,
+      "Longitude": -38.765
+    },
+    {
+      "Estação": "Salvador - (Centro) - 292740802A",
+      "Latitude": -12.98,
+      "Longitude": -38.517
+    },
+    {
+      "Estação": "Salvador (Abaeté) - RN-CL-05",
+      "Latitude": -12.947,
+      "Longitude": -38.359
+    },
+    {
+      "Estação": "Salvador (Águas Claras) -",
+      "Latitude": -12.894,
+      "Longitude": -38.442
+    },
+    {
+      "Estação": "Salvador (Alto do Peru) -",
+      "Latitude": -12.939,
+      "Longitude": -38.486
+    },
+    {
+      "Estação": "Salvador (Cabula) - 292740810A",
+      "Latitude": -12.961,
+      "Longitude": -38.461
+    },
+    {
+      "Estação": "Salvador (Caminho das Árvores) -",
+      "Latitude": -12.977,
+      "Longitude": -38.454
+    },
+    {
+      "Estação": "Salvador (Cosme de Farias) -",
+      "Latitude": -12.979,
+      "Longitude": -38.486
+    },
+    {
+      "Estação": "Salvador (Estação Rádio Marinha) -",
+      "Latitude": -12.808,
+      "Longitude": -38.496
+    },
+    {
+      "Estação": "Salvador (Federação) - 292740803A",
+      "Latitude": -13.001,
+      "Longitude": -38.511
+    },
+    {
+      "Estação": "Salvador (Itapuã) - 292740819A",
+      "Latitude": -12.948,
+      "Longitude": -38.37
+    },
+    {
+      "Estação": "Salvador (J. Zoológico) - A401",
+      "Latitude": -13.006,
+      "Longitude": -38.506
+    },
+    {
+      "Estação": "Salvador (Ondina) - 83229",
+      "Latitude": -13.005,
+      "Longitude": -38.506
+    },
+    {
+      "Estação": "Salvador (Periperi) - 292740820A",
+      "Latitude": -12.867,
+      "Longitude": -38.458
+    },
+    {
+      "Estação": "Salvador (Pirajá) - 292740801A",
+      "Latitude": -12.899,
+      "Longitude": -38.459
+    },
+    {
+      "Estação": "Salvador (Rio Sena) - 292740805A",
+      "Latitude": -12.891,
+      "Longitude": -38.471
+    },
+    {
+      "Estação": "Salvador (São Caetano) -",
+      "Latitude": -12.94,
+      "Longitude": -38.475
+    },
+    {
+      "Estação": "Salvador (Tancredo Neves) -",
+      "Latitude": -12.945,
+      "Longitude": -38.453
+    },
+    {
+      "Estação": "Salvador (Valéria) - 292740817A",
+      "Latitude": -12.864,
+      "Longitude": -38.438
+    },
+    {
+      "Estação": "Santa Cruz Cabrália (BR367km4) -",
+      "Latitude": -16.321,
+      "Longitude": -39.023
+    },
+    {
+      "Estação": "Santa Luzia (Centro) - 292805901A",
+      "Latitude": -15.43,
+      "Longitude": -39.333
+    },
+    {
+      "Estação": "Santa Maria da Vitória",
+      "Latitude": -13.401,
+      "Longitude": -44.199
+    },
+    {
+      "Estação": "Santa Rita de Cássia - 83076",
+      "Latitude": -11.017,
+      "Longitude": -44.517
+    },
+    {
+      "Estação": "Santaluz - IT-PR-17",
+      "Latitude": -11.248,
+      "Longitude": -39.376
+    },
+    {
+      "Estação": "Santo Amaro (Polivalente) -",
+      "Latitude": -12.553,
+      "Longitude": -38.713
+    },
+    {
+      "Estação": "Santo Estevão - PC Rio Paratigi",
+      "Latitude": -12.515,
+      "Longitude": -39.383
+    },
+    {
+      "Estação": "Santo Estevão - PG-CL-08",
+      "Latitude": -12.435,
+      "Longitude": -39.212
+    },
+    {
+      "Estação": "São Desidério - Derocal (ANA)",
+      "Latitude": -12.413,
+      "Longitude": -45.121
+    },
+    {
+      "Estação": "São Desidério - PCH Sítio Grande - J",
+      "Latitude": -12.429,
+      "Longitude": -45.153
+    },
+    {
+      "Estação": "São Félix - 292900801A",
+      "Latitude": -12.607,
+      "Longitude": -38.97
+    },
+    {
+      "Estação": "São Francisco do Conde - RN-CL-07",
+      "Latitude": -12.611,
+      "Longitude": -38.682
+    },
+    {
+      "Estação": "Saúde - IT-CL-04",
+      "Latitude": -10.957,
+      "Longitude": -40.383
+    },
+    {
+      "Estação": "Senhor do Bonfim - A428",
+      "Latitude": -10.443,
+      "Longitude": -40.148
+    },
+    {
+      "Estação": "Senhor do Bonfim (Carrapichel) - IT-",
+      "Latitude": -10.388,
+      "Longitude": -40.22
+    },
+    {
+      "Estação": "Sento Sé - SO-CL-01",
+      "Latitude": -9.782,
+      "Longitude": -41.819
+    },
+    {
+      "Estação": "Simões Filho (Centro) - 293070903A",
+      "Latitude": -12.788,
+      "Longitude": -38.397
+    },
+    {
+      "Estação": "Simões Filho (CIA)- 293070902A",
+      "Latitude": -12.825,
+      "Longitude": -38.409
+    },
+    {
+      "Estação": "Simões Filho (Góes Calmon) -",
+      "Latitude": -12.78,
+      "Longitude": -38.353
+    },
+    {
+      "Estação": "Teofilândia - 293150901C",
+      "Latitude": -11.506,
+      "Longitude": -38.948
+    },
+    {
+      "Estação": "Tucano (Caldas do Jorro) - IT-CL-05",
+      "Latitude": -11.035,
+      "Longitude": -38.804
+    },
+    {
+      "Estação": "Uauá - A435",
+      "Latitude": -9.834,
+      "Longitude": -39.496
+    },
+    {
+      "Estação": "Uauá (Fazenda Boa Vista) - IT-PR-18",
+      "Latitude": -10.059,
+      "Longitude": -39.706
+    },
+    {
+      "Estação": "Utinga - 293280401C",
+      "Latitude": -12.076,
+      "Longitude": -41.102
+    },
+    {
+      "Estação": "Valença (Rua São Roque) -",
+      "Latitude": -13.363,
+      "Longitude": -39.078
+    },
+    {
+      "Estação": "Várzea do Poço (Lajinha) - IT-CL-06",
+      "Latitude": -11.496,
+      "Longitude": -40.345
+    },
+    {
+      "Estação": "Várzea Nova - SA-CL-02",
+      "Latitude": -11.24,
+      "Longitude": -40.936
+    },
+    {
+      "Estação": "Vereda - PCH Colino II Montante",
+      "Latitude": -17.071,
+      "Longitude": -40.155
+    },
+    {
+      "Estação": "Vitória da Conquista - A414",
+      "Latitude": -14.886,
+      "Longitude": -40.801
+    },
+    {
+      "Estação": "Vitória da Conquista - PA-CL-01",
+      "Latitude": -14.886,
+      "Longitude": -40.801
+    },
+    {
+      "Estação": "Vitória da Conquista (Centro) -",
+      "Latitude": -14.852,
+      "Longitude": -40.839
+    },
+    {
+      "Estação": "Vitória da Conquista (Lomantão) -",
+      "Latitude": -14.87,
+      "Longitude": -40.827
+    },
+    {
+      "Estação": "Vitória da Conquista (Patagônia) -",
+      "Latitude": -14.87,
+      "Longitude": -40.863
+    },
+    {
+      "Estação": "Vitória da Conquista (Recreio) -",
+      "Latitude": -14.861,
+      "Longitude": -40.841
+    },
+    {
+      "Estação": "Wagner (Fazenda Terra Grapiúna) -",
+      "Latitude": -12.181,
+      "Longitude": -41.151
+    },
+    {
+      "Estação": "Xique-Xique - PM-CL-05",
+      "Latitude": -10.825,
+      "Longitude": -42.689
+    }
+  ]
